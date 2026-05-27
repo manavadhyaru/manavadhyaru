@@ -139,7 +139,9 @@ val manav = developer {
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-@slayer.manav-A020F0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/slayer.manav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manav%20Adhyaru-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/manav-adhyaru)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@slayer.manav-A020F0?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/slayer.manav)
 
 </div>
 
