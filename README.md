@@ -12,6 +12,8 @@ const manav = {
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer;Anime+%2B+Code+%2B+Coffee;Building+Cool+Stuff+Everyday" />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=manavadhyaru)](https://git.io/streak-stats)
+
 ## 🌸 Tech Stack
 
 * Kotlin
