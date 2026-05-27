@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=800&lines=こんにちは+👋+I'm+Manav;Full+Stack+AI+Engineer;Android+Developer+⚡;Anime+%2B+Code+%2B+Coffee;Building+Futuristic+Apps+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=800&lines=こんにちは+👋+I'm+Manav+Adhyaru;A+Full+Stack+AI+Engineer;Android+Developer+⚡;Anime+%2B+Code+%2B+Coffee;Building+Futuristic+Apps+🚀" />
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
 
