@@ -89,8 +89,6 @@ val manav = developer {
 
 ---
 
----
-
 ## 💻 Operating Systems I Use
 
 <div align="center">
