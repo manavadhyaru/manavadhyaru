@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/manavadhyaru/manavadhyaru/main/github_banner.png"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=800&lines=こんにちは+👋+I'm+Manav;Full+Stack+AI+Engineer;Android+Developer+⚡;Anime+%2B+Code+%2B+Coffee;Building+Futuristic+Apps+🚀" />
