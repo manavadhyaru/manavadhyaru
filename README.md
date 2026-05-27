@@ -71,6 +71,22 @@ val manav = developer {
 
 ---
 
+## 🌸 Most Used Languages
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -78,26 +94,6 @@ val manav = developer {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manavadhyaru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manavadhyaru&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-## 🌸 Most Used Languages
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavadhyaru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/manavadhyaru/manavadhyaru/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
