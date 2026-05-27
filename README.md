@@ -15,51 +15,48 @@
 
 ## 🧠 About Me
 
-```kotlin
-val manav = developer {
+<div align="center">
 
-    role = "Full Stack AI Engineer"
+<table>
+<tr>
+<td width="500">
 
-    languages = listOf(
-        "Kotlin",
-        "Java",
-        "JavaScript",
-        "TypeScript",
-        "Python"
-    )
+### 👨‍💻 Manav.exe
 
-    specialization = listOf(
-        "Android Development",
-        "Backend Engineering",
-        "Generative AI",
-        "System Design"
-    )
+🔹 Full Stack AI Engineer
+🔹 Android Developer
+🔹 Generative AI Enthusiast
+🔹 System Design Learner
 
-    techStack = listOf(
-        "Jetpack Compose",
-        "Spring Boot",
-        "Node.js",
-        "React",
-        "PostgreSQL",
-        "Firebase",
-        "Docker"
-    )
+---
 
-    currentlyLearning = listOf(
-        "AI Agents",
-        "Distributed Systems",
-        "Advanced System Design"
-    )
+### ⚡ Tech Stack
 
-    hobbies = listOf(
-        "Anime",
-        "Coding",
-        "Late Night Debugging ☕"
-    )
+* Kotlin
+* Java
+* JavaScript
+* TypeScript
+* Spring Boot
+* Node.js
+* Jetpack Compose
 
-    motto = "継続は力なり"
-}
-```
+---
+
+### 🌸 Current Mission
+
+Building futuristic AI-powered applications.
+
+---
+
+### 🎴 Motto
+
+**継続は力なり**
+*Consistency is power*
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
