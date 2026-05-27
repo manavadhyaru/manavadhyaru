@@ -1,16 +1,27 @@
-## Hi there 👋
+# こんにちは 👋 I'm Manav
 
-<!--
-**manavadhyaru/manavadhyaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const manav = {
+    role: "Full Stack AI Engineer",
+    stack: ["Android", "Spring Boot", "Node.js", "AI"],
+    anime: ["Naruto", "Attack on Titan", "Jujutsu Kaisen"],
+    currentlyLearning: ["System Design", "Gen AI"],
+    motto: "コードで未来を創る"
+}
+```
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer;Anime+%2B+Code+%2B+Coffee;Building+Cool+Stuff+Everyday" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 Tech Stack
+
+* Kotlin
+* Jetpack Compose
+* Spring Boot
+* Node.js
+* PostgreSQL
+* Firebase
+* Gen AI
+
+## ⚡ Fun Fact
+
+"Sleep is temporary, shipping is eternal."
