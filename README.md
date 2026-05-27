@@ -6,7 +6,8 @@
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
 
-# 🌌 コードで未来を創る  
+# 🌌 コードで未来を創る
+
 ### *Building the future with code*
 
 </div>
@@ -56,6 +57,7 @@ Building futuristic AI-powered applications.
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
@@ -65,6 +67,54 @@ Building futuristic AI-powered applications.
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,nodejs,react,nextjs,python,postgres,firebase,docker,git,aws)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🤖 AI Engineering & Agentic Systems
+
+<div align="center">
+
+<table>
+<tr>
+<td width="500">
+
+### 🧠 AI Systems I Work With
+
+🔹 Agentic AI Architectures
+🔹 Multi-Agent Workflows
+🔹 RAG Pipelines
+🔹 AI Automation Systems
+🔹 LLM Integrations
+🔹 Conversational AI
+🔹 AI-Powered Analytics
+🔹 Vector Databases & Embeddings
+
+---
+
+### ⚡ Exploring
+
+* Autonomous AI Agents
+* AI Memory Systems
+* Workflow Orchestration
+* AI + Android Integrations
+* Realtime AI Systems
+* Distributed AI Infrastructure
+
+---
+
+### 🛠️ AI Stack
+
+```txt
+OpenAI • Gemini • Vertex AI • Firebase Genkit
+LangChain • Python • Node.js • PostgreSQL
+Vector Search • Prompt Engineering • RAG
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -100,6 +150,7 @@ Building futuristic AI-powered applications.
 
 </div>
 
+---
 
 ## 📊 GitHub Stats
 
@@ -115,20 +166,20 @@ Building futuristic AI-powered applications.
 
 ## 🎴 Anime Quotes
 
-> *"コードは芸術だ"*  
+> *"コードは芸術だ"*
 > **Code is art**
 
-> *"夢をコードに変える"*  
+> *"夢をコードに変える"*
 > **Turning dreams into code**
 
 ---
 
 ## 🚀 Current Focus
 
-- 🤖 Building AI-powered applications  
-- ⚡ Mastering System Design  
-- 📱 Creating modern Android experiences  
-- 🌌 Exploring Agentic AI systems  
+* 🤖 Building AI-powered applications
+* ⚡ Mastering System Design
+* 📱 Creating modern Android experiences
+* 🌌 Exploring Agentic AI systems
 
 ---
 
